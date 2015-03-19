@@ -55,4 +55,7 @@ var MyWidget = React.createClass({
 	}
 });
 
-React.render(<MyWidget />, document.querySelector('.view-port'));
+var widgetComponent =
+    React.render(<MyWidget />, document.querySelector('.view-port'));
+
+console.log(React.renderToString(widgetComponent.render()));
