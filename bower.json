@@ -1,0 +1,26 @@
+{
+  "name": "reactsb",
+  "version": "0.0.0",
+  "authors": [
+    "Adam Mesha <adam@mesha.org>"
+  ],
+  "description": "fuck you, man",
+  "main": "index.html",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "www.mesha.org",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.1",
+    "flux": "~2.0.2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "reactsb",
+  "version": "1.0.0",
+  "description": "just fucking with you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Mesha <adam@mesha.org>",
+  "license": "ISC",
+  "dependencies": {
+    "flux": "^2.0.1",
+    "react": "^0.13.1"
+  },
+  "devDependencies": {}
+}
